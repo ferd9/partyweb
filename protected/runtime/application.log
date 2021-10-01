@@ -1,0 +1,1242 @@
+2012/06/26 06:10:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:10:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:10:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:10:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:10:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:12:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:12:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:12:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:12:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:13:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:13:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:13:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:13:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:15:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:17:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:17:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:17:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:20:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:20:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:20:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:20:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:20:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:21:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:21:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:21:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:21:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:22:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:22:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 06:22:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 06:22:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/26 06:22:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:37:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/26 21:37:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:37:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:37:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/26 21:37:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/26 21:37:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/26 21:37:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:37:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/26 21:37:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/form-ic-info.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/form-ic...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/form-ic-info.png
+2012/06/26 21:37:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:37:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:37:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/26 21:37:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:37:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/26 21:37:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:37:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/26 21:37:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:37:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:38:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/form-ic-info.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/form-ic...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/form-ic-info.png
+2012/06/26 21:38:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:38:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:38:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:38:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:38:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:38:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:38:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:38:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:38:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:39:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:39:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:39:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:39:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:39:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:39:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:39:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:39:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:39:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/26 21:39:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/26 21:45:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/26 21:45:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/26 21:45:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/27 23:32:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/27 23:32:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/27 23:32:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/27 23:32:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/27 23:32:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/27 23:32:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/27 23:32:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/27 23:32:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/27 23:32:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/form-ic-info.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/form-ic...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/form-ic-info.png
+2012/06/27 23:45:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/form-ic-info.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/form-ic...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/form-ic-info.png
+2012/06/27 23:45:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/27 23:45:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/28 19:25:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/28 19:25:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/28 19:25:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/28 19:25:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/28 19:25:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/28 19:25:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/28 23:45:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/28 23:45:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/28 23:45:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/28 23:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/30 00:14:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/30 00:14:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/30 00:14:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/06/30 00:14:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/30 00:14:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "elgg"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('elgg')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/elgg
+2012/06/30 00:14:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/30 00:14:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/30 00:14:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "elgg"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('elgg')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/elgg
+2012/06/30 00:14:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/30 00:15:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/30 00:15:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "elgg"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('elgg')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/elgg
+2012/06/30 00:15:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/30 00:15:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/30 00:15:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "elgg"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('elgg')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/elgg
+2012/06/30 00:15:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/30 00:15:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/30 00:15:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "elgg"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('elgg')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/elgg
+2012/06/30 00:15:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/06/30 00:15:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/30 00:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "elgg"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('elgg')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/elgg
+2012/06/30 00:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/30 00:15:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "elgg"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('elgg')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/elgg
+2012/06/30 00:15:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/30 00:15:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/06/30 00:15:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/06/30 00:15:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/07/01 00:34:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/07/01 00:34:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/07/01 00:34:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/07/04 05:57:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/button-gradient.png
+2012/07/04 05:57:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/07/04 05:57:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/images/portlet-header-bg.png
+2012/07/04 05:57:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/07/04 05:57:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "adela"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('adela')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/adela/
+2012/07/04 05:57:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/07/04 05:57:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "adela"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('adela')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/adela/
+2012/07/04 05:57:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2012/07/04 05:57:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/css/img/button.png
+2012/08/25 08:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/08/25 08:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/08/25 08:22:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:51:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/03 22:51:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 22:51:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:51:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/03 22:51:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:51:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/form-ic-info.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/form-ic...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/form-ic-info.png
+2012/09/03 22:51:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:51:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/03 22:51:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 22:51:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 22:51:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:51:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/03 22:55:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 22:55:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 22:55:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/03 22:55:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:59:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 22:59:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:59:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:59:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:59:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:59:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:59:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 22:59:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 22:59:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 22:59:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 23:00:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 23:00:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 23:00:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/03 23:00:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 23:00:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/03 23:00:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/form-ic-info.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/form-ic...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/form-ic-info.png
+2012/09/03 23:01:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/form-ic-info.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/form-ic...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/form-ic-info.png
+2012/09/03 23:01:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 23:01:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 23:01:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/03 23:01:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/03 23:01:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/04 01:06:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/04 01:06:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:06:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/04 01:06:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:06:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/04 01:06:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:07:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/04 01:07:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/04 01:07:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/04 01:07:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:07:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/04 01:07:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/04 01:07:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png
+2012/09/04 01:07:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:07:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/form-ic-info.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/form-ic...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/form-ic-info.png
+2012/09/04 01:08:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/form-ic-info.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/form-ic...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/form-ic-info.png
+2012/09/04 01:09:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/04 01:09:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:09:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/04 01:09:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:09:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/images/bg-lite.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/images/bg-l...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/images/bg-lite.png
+2012/09/04 01:09:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:09:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/04 01:09:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/04 01:09:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:09:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/04 01:09:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:10:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/button-gradient.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/button-g...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/button-gradient.png
+2012/09/04 01:10:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "images/portlet-header-bg.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('images/portlet-...')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/images/portlet-header-bg.png
+2012/09/04 01:10:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "css/img/button.png"' in C:\xampp\htdocs\yiif\framework\web\CWebApplication.php:281
+Stack trace:
+#0 C:\xampp\htdocs\yiif\framework\web\CWebApplication.php(136): CWebApplication->runController('css/img/button....')
+#1 C:\xampp\htdocs\yiif\framework\base\CApplication.php(158): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\cparty\index.php(13): CApplication->run()
+#3 {main} REQUEST_URI=/cparty/css/img/button.png

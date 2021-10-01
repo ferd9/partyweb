@@ -1,0 +1,53 @@
+/* 
+    Document   : logincss
+    Created on : 05-may-2012, 20:59:04
+    Author     : El APRENDIZ www.elaprendiz.net63.net
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#content { 
+    padding: 4px 4px 5px 4px !important;
+    margin:  5px 225px 0px 225px;
+    width: 500px;
+    border: solid 2px blue;
+}
+
+h1, p{
+    text-align: center;
+}
+
+div .form
+{
+    width: 300px;
+    padding-top: 5px;
+    margin:  0px 100px 0px 100px;
+    border-bottom: solid 2px #06c;
+    border-top: solid 2px #06c; 
+}
+
+div .form .row
+{
+    margin:  0px 50px 0px 50px;
+}
+
+div .form .row input
+{
+   width:200px;
+}
+
+div .form .rememberMe input
+{
+    width:25px;
+}
+
+div.form .buttons input
+{
+    width:200px;    
+}
+
